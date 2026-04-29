@@ -8,4 +8,4 @@ demo.polygons.forEach((polygon) => {
 	store.addPolygon(polygon);
 });
 
-export { store as sceneStore };
+export const sceneStore = store;
