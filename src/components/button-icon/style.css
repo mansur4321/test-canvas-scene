@@ -1,0 +1,24 @@
+.button-icon {
+	width: 40px;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	border: none;
+	border-radius: 8px;
+	background: #fff;
+}
+.button-icon:hover {
+	background: #f0f0f0;
+}
+.button-icon:active {
+	background: #e0e0e0;
+}
+.button-icon:focus {
+	outline: none;
+}
+.button-icon:focus-visible {
+	outline: 2px solid #3fbfff58;
+}

@@ -1,1 +1,1 @@
-export {};
+export { renderScene } from "./scene-renderer";

@@ -1,0 +1,16 @@
+.canvas-editor {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.canvas-editor:focus {
+	outline: none;
+}
+.canvas-editor:active {
+	outline: none;
+}
+:host {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
